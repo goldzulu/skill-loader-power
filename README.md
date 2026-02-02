@@ -46,7 +46,7 @@ The MCP server will be automatically installed via npx on first use.
 If you prefer to install the MCP server globally:
 
 ```bash
-npm install -g @kiro/skill-loader-mcp-server
+npm install -g @goldzulu/skill-loader-mcp-server
 ```
 
 Then update `mcp.json` to use `skill-loader-mcp-server` instead of `npx`.
@@ -116,7 +116,7 @@ skill-loader/
 
 This power uses the **Skill Loader MCP Server**:
 
-- **Package**: `@kiro/skill-loader-mcp-server`
+- **Package**: `@goldzulu/skill-loader-mcp-server`
 - **Repository**: [github.com/goldzulu/skill-loader-mcp-server](https://github.com/goldzulu/skill-loader-mcp-server)
 - **Protocol**: MCP (Model Context Protocol)
 - **Installation**: Automatic via npx
