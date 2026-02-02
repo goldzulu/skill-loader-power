@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "skill-loader": {
+      "command": "npx",
+      "args": ["-y", "@kiro/skill-loader-mcp-server"],
+      "description": "MCP server for discovering, fetching, validating, and converting Claude skills from skills.sh and GitHub repositories",
+      "disabled": false,
+      "autoApprove": []
+    }
+  }
+}
