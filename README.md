@@ -1,5 +1,8 @@
 # Skill Loader Power
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Kiro Power](https://img.shields.io/badge/Kiro-Power-blue.svg)](https://kiro.dev)
+
 A documentation-only Kiro power that guides you on using the Skill Loader MCP Server to discover, fetch, and convert Claude skills from [skills.sh](https://skills.sh) and GitHub repositories.
 
 ## What is This?
@@ -114,7 +117,7 @@ skill-loader/
 This power uses the **Skill Loader MCP Server**:
 
 - **Package**: `@kiro/skill-loader-mcp-server`
-- **Repository**: [github.com/kiro/skill-loader-mcp-server](https://github.com/kiro/skill-loader-mcp-server)
+- **Repository**: [github.com/goldzulu/skill-loader-mcp-server](https://github.com/goldzulu/skill-loader-mcp-server)
 - **Protocol**: MCP (Model Context Protocol)
 - **Installation**: Automatic via npx
 
@@ -122,8 +125,8 @@ This power uses the **Skill Loader MCP Server**:
 
 - **Documentation**: See [POWER.md](./POWER.md)
 - **Troubleshooting**: Check the Troubleshooting section in POWER.md
-- **Issues**: [GitHub Issues](https://github.com/kiro/skill-loader-mcp-server/issues)
-- **Community**: [Kiro Community Forum](https://community.kiro.dev)
+- **Issues**: [GitHub Issues](https://github.com/goldzulu/skill-loader-power/issues)
+- **MCP Server Issues**: [MCP Server GitHub](https://github.com/goldzulu/skill-loader-mcp-server/issues)
 
 ## Version
 
