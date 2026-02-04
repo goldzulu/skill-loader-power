@@ -3,7 +3,7 @@ name: "skill-loader"
 displayName: "Skill Loader"
 description: "Discover, fetch, and convert Claude skills from skills.sh and GitHub repositories"
 keywords: ["claude", "skills", "agent-skills", "skills.sh", "import", "converter", "steering", "power", "marketplace", "mcp"]
-author: "Kiro"
+author: "goldzulu"
 version: "2.0.0"
 mcpServers: ["skill-loader"]
 ---
